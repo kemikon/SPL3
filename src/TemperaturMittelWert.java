@@ -66,7 +66,7 @@ public class TemperaturMittelWert {
 		System.out.println("Zwischen 20° und 10° : "+vorkommenunter20 + "x");
 		System.out.println("Zwischen 20° und 10° : "+vorkommengroesser20 + "x");
 		System.out.println("1000 = "+(vorkommenunter10 + vorkommenunter20+vorkommengroesser20));
-		System.out.println("Temperatur unter " + unter +"° : " +vorkommenzahl + "x");
+		
 		return unter;
 	}
 	
